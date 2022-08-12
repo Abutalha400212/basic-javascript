@@ -7,4 +7,4 @@ function radianToDegree(radians){
            return ('Error: Please Provide Number Type of Javascript!');
     }
 }
-console.log(radianToDegree(0.7854));
+console.log(radianToDegree('0.7854'));

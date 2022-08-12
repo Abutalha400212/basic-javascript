@@ -19,4 +19,4 @@ function oilPrice(diesel, petrol, octen) {
         return ('Error: Please Provide Number Type of Javascript!');
     }
 }
-console.log(oilPrice(3, -3, 7));
+console.log(oilPrice(3, 3, 7));

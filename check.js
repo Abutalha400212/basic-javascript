@@ -1,5 +1,5 @@
 // check Best Friend Between Two Object Values//
-const friend1 = { name: 'tata', friend: 'babul' };
+const friend1 = { name: 20, friend: 'babul' };
 const friend2 = { name: 'babul', friend: 'tata' };
 function isBestFriend(friend1, friend2) {
     const a = Object.values(friend1);

@@ -1,6 +1,6 @@
 //check Best Friend //
 const friends = [{ name: 'true', friend: 'babul' },
-{ name: 'babul', friend: 'true' }];
+{ name: 'babul', friend: '20' }];
 function isBestFriend(friends) {
     const friend1 = Object.values(friends[0])
     const errorFriend10 = typeof (friend1[0])

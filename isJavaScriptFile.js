@@ -7,4 +7,4 @@ function isJavaScriptFile(fileName) {
         return ('Error: Please Provide String Type of Javascript!')
     } 
 }
-console.log(isJavaScriptFile());
+console.log(isJavaScriptFile('photo.js'));
